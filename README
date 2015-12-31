@@ -1,0 +1,6 @@
+QIPDiscovery is a small Qt 5 library that allows you to discover all IPs of the
+local computer (including external ones when the network router uses NAT) and
+to set up port mappings.
+It uses MiniUPnPc to support the UPnP IGD (Internet Gateway Device) protocol.
+Support for PCP (Port Control Protocol) is planned but not yet implemented.
+
